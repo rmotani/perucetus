@@ -15,8 +15,6 @@ working directory.
 downlaod MamPhy_fullPosterior_BDvr_DNAonly_4098sp_topoFree_NDexp_MCC_v2_target.tre
 
  - From https://www.nature.com/articles/s41586-023-06381-1#Sec17, 
-download 
--AquaticAndEstimations.csv
--TerrestrialExtant.csv
+download AquaticAndEstimations.csv and TerrestrialExtant.csv,
 which are contained in Supplementary Data 2. Place these two files directly 
 in your working directory, without the folder structure in the zip file.
