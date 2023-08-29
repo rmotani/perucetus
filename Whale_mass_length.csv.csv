@@ -1,0 +1,244 @@
+ID_or_Date,Species,grp1,grp2,Sex,Pregnant,Bone,Geography,bodyL,bodyM,boneM,Source,
+N.No.113.B.M.,Balaenoptera_musculus,Blue_wet,Blue,M,N,wet,U,24.9936,87.64,15.38,Nishiwaki (1950),
+N.No.1148.B.F.,Balaenoptera_musculus,Blue_wet,Blue,F,Y,wet,U,25.2984,110.209,17.16,Nishiwaki (1950),
+H.No.271.B.F.,Balaenoptera_musculus,Blue_wet,Blue,F,Y,wet,U,25.2984,96.494,19.906,Nishiwaki (1950),
+H.No. 281.B.F.,Balaenoptera_musculus,Blue_wet,Blue,F,N,wet,U,24.0792,76.277,14.45,Nishiwaki (1950),
+N.No. 207.B.F.,Balaenoptera_musculus,Blue_wet,Blue,F,Y,wet,U,25.2984,94.23,16.98,Nishiwaki (1950),
+N.No. 210.B.F.,Balaenoptera_musculus,Blue_wet,Blue,F,N,wet,U,21.336,56.71,10.79,Nishiwaki (1950),
+H.No.325.B.F.,Balaenoptera_musculus,Blue_wet,Blue,F,N,wet,U,23.4696,70.061,13.614,Nishiwaki (1950),
+N.No. 233.B.M.,Balaenoptera_musculus,Blue_wet,Blue,M,N,wet,U,24.6888,84.05,15.01,Nishiwaki (1950),
+N.No.230.B.F.,Balaenoptera_musculus,Blue_wet,Blue,F,N,wet,U,23.7744,68.92466586,11.98,Nishiwaki (1950),
+H.No.367.B.M.,Balaenoptera_musculus,Blue_wet,Blue,M,N,wet,U,23.1648,63.07047619,12.595,Nishiwaki (1950),
+H.No.239.B.M.,Balaenoptera_musculus,Blue_wet,Blue,M,N,wet,U,22.2504,56.47877013,10.83,Nishiwaki (1950),
+N.no.247.B.M.,Balaenoptera_musculus,Blue_wet,Blue,M,N,wet,U,22.86,68.96301668,12.75,Nishiwaki (1950),
+N.no.279.B.F.,Balaenoptera_musculus,Blue_wet,Blue,F,N,wet,U,23.1648,77.62762763,11.93,Nishiwaki (1950),
+H.No.435.B.F.,Balaenoptera_musculus,Blue_wet,Blue,F,N,wet,U,25.2984,93.48324141,20.08,Nishiwaki (1950),
+N.No.280.B.M.,Balaenoptera_musculus,Blue_wet,Blue,M,N,wet,U,22.5552,77.41027445,11.1,Nishiwaki (1950),
+H.No.438.B.M.,Balaenoptera_musculus,Blue_wet,Blue,M,N,wet,U,25.2984,107.8121376,19.607,Nishiwaki (1950),
+N.No.319.B.F.,Balaenoptera_musculus,Blue_wet,Blue,F,N,wet,U,27.1272,127.544,17.54,Nishiwaki (1950),
+N.No.337.B.F.,Balaenoptera_musculus,Blue_wet,Blue,F,N,wet,U,22.5552,55.3306,10.21,Nishiwaki (1950),
+H.No.631.B.F.,Balaenoptera_musculus,Blue_wet,Blue,F,N,wet,U,23.1648,77.425,13.299,Nishiwaki (1950),
+N.No.411.B.F.,Balaenoptera_musculus,Blue_wet,Blue,F,N,wet,U,26.2128,108.62,16.26,Nishiwaki (1950),
+N.no.415.B.M.,Balaenoptera_musculus,Blue_wet,Blue,M,N,wet,U,23.4696,97.63,14.64,Nishiwaki (1950),
+H.No.734.B.M.,Balaenoptera_musculus,Blue_wet,Blue,M,N,wet,U,22.86,86.267,16.734,Nishiwaki (1950),
+H.No.736.B.F.,Balaenoptera_musculus,Blue_wet,Blue,F,N,wet,U,22.2504,62.328,11.261,Nishiwaki (1950),
+H.No. 742.B.F.,Balaenoptera_musculus,Blue_wet,Blue,F,N,wet,U,23.4696,82.289,13.671,Nishiwaki (1950),
+RN.no.462.B.F,Balaenoptera_musculus,Blue_wet,Blue,F,N,wet,U,26.8224,113.7454545,17.31,Nishiwaki (1950),
+H.No.745.B.F.,Balaenoptera_musculus,Blue_wet,Blue,F,N,wet,U,23.1648,84.28690229,13.832,Nishiwaki (1950),
+N.No.471.B.M.,Balaenoptera_musculus,Blue_wet,Blue,M,N,wet,U,24.384,85.35335042,14.87,Nishiwaki (1950),
+H.No.819.B.F.,Balaenoptera_musculus,Blue_wet,Blue,F,N,wet,U,24.9936,94.97111913,16.665,Nishiwaki (1950),
+H.No.827.B.M.,Balaenoptera_musculus,Blue_wet,Blue,M,N,wet,U,25.2984,99.3445122,16.644,Nishiwaki (1950),
+H.No.831.B.F.,Balaenoptera_musculus,Blue_wet,Blue,F,N,wet,U,24.6888,95.42429907,15.8,Nishiwaki (1950),
+H.No.79.B.M.,Balaenoptera_musculus,Blue_wet,Blue,M,N,wet,U,24.6888,76.92545384,16.691,Nishiwaki (1950),
+H.No.831.B.F.,Balaenoptera_musculus,Blue_wet,Blue,F,N,wet,U,24.9936,99.71041056,16.235,Nishiwaki (1950),
+1208,Balaenoptera_musculus,Blue_wet,Blue,M,N,wet,U,25.2984,109.93,20.551,Ohno and Fujino (1952),
+961,Balaenoptera_musculus,Blue_wet,Blue,M,N,wet,U,23.7744,79.254,12.338,Ohno and Fujino (1952),
+,Balaenoptera_musculus,Blue_wet,Blue,M,N,wet,U,20.3,48.91,9.43,Ash (1952) in Lockyer (1976),
+,Balaenoptera_musculus,Blue_wet,Blue,M,N,wet,U,27.6,190,26,Voronin (1948) in Tomlin (1967) in Lockyer (1976,
+,Balaenoptera_musculus,Blue_wet,Blue,M,N,wet,U,27.1,136.4,18.49,Winston (1950) in Tomlin (1967) in Lockyer (1976,
+,Balaenoptera_musculus,Blue_wet,Blue,F,Y,wet,U,27.2,122,22.28,Laurie (1933) in Lockyer (1976),
+,Balaenoptera_musculus,Blue_wet,Blue,U,N,wet,U,16,23,,Krogh (1934) in Lockyer (1976),
+,Balaenoptera_musculus,Blue_wet,Blue,U,N,wet,U,7,2,,Krogh (1934) in Lockyer (1976),
+,Balaenoptera_musculus,Blue_wet,Blue,U,N,wet,U,29.5,163,,Laurie (1933) in Lockyer (1976),
+,Balaenoptera_musculus,Blue_wet,Blue,U,N,wet,U,23.7,63,,Andrews (1916) in Lockyer (1976),
+H.No.152.F.M.,Balaenoptera_physalus,Others_wet,Fin,M,N,wet,U,19.5072,40.298,7.9,Nishiwaki (1950),
+N.No.152.F.M.,Balaenoptera_physalus,Others_wet,Fin,M,N,wet,U,20.4216,45.238,8.938,Nishiwaki (1950),
+H.No.284.F.F.,Balaenoptera_physalus,Others_wet,Fin,F,N,wet,U,21.0312,51.667,8.338,Nishiwaki (1950),
+H.No.314.F.M.,Balaenoptera_physalus,Others_wet,Fin,M,N,wet,U,20.1168,43.087,8.792,Nishiwaki (1950),
+N.No.211.F.M.,Balaenoptera_physalus,Others_wet,Fin,M,N,wet,U,19.2024,40.21,6.27,Nishiwaki (1950),
+N.No.224.F.F.,Balaenoptera_physalus,Others_wet,Fin,F,N,wet,U,22.5552,64.262,10.49,Nishiwaki (1950),
+N.No.225.F.F.,Balaenoptera_physalus,Others_wet,Fin,F,N,wet,U,22.86,57.602,11.42,Nishiwaki (1950),
+N.No.236.F.F.,Balaenoptera_physalus,Others_wet,Fin,F,N,wet,U,22.5552,69.542,10.2,Nishiwaki (1950),
+N.No.254.F.F.,Balaenoptera_physalus,Others_wet,Fin,F,N,wet,U,21.9456,60.723,9.37,Nishiwaki (1950),
+N.No.262.F.M.,Balaenoptera_physalus,Others_wet,Fin,M,N,wet,U,19.5072,41.648,7.08,Nishiwaki (1950),
+N.No.325.F.F.,Balaenoptera_physalus,Others_wet,Fin,F,N,wet,U,21.6408,57.682,7.82,Nishiwaki (1950),
+N.No.357.F.F.,Balaenoptera_physalus,Others_wet,Fin,F,N,wet,U,21.6408,58.512,8.96,Nishiwaki (1950),
+H.No.617.F.M.,Balaenoptera_physalus,Others_wet,Fin,M,N,wet,U,21.0312,47.576,7.883,Nishiwaki (1950),
+H.No.702.F.F.,Balaenoptera_physalus,Others_wet,Fin,F,N,wet,U,20.7264,47.367,9.067,Nishiwaki (1950),
+H.No.816.F.F.,Balaenoptera_physalus,Others_wet,Fin,F,N,wet,U,20.7264,48.498,9.227,Nishiwaki (1950),
+N.No.487.F.F.,Balaenoptera_physalus,Others_wet,Fin,F,N,wet,U,20.7264,49.695,7.45,Nishiwaki (1950),
+r/N.No.15.F.F.,Balaenoptera_physalus,Others_wet,Fin,F,N,wet,U,20.7264,49.3859,8.012,Nishiwaki (1950),
+N.No.21.F.F.,Balaenoptera_physalus,Others_wet,Fin,F,N,wet,U,22.2504,57.1338,10.012,Nishiwaki (1950),
+N.No.25.F.M.,Balaenoptera_physalus,Others_wet,Fin,M,N,wet,U,19.2024,40.386,7.002,Nishiwaki (1950),
+N.No.85.F.F.,Balaenoptera_physalus,Others_wet,Fin,F,N,wet,U,18.5928,37.371,5.91,Nishiwaki (1950),
+H.No.86.F.F.,Balaenoptera_physalus,Others_wet,Fin,F,N,wet,U,21.6408,53.549,9.514,Nishiwaki (1950),
+N.No.68.F.F.,Balaenoptera_physalus,Others_wet,Fin,F,N,wet,U,22.2504,58.529,10.675,Nishiwaki (1950),
+N.No.105.F.F.,Balaenoptera_physalus,Others_wet,Fin,F,N,wet,U,22.5552,58.222,8.911,Nishiwaki (1950),
+N.No.127.F.M.,Balaenoptera_physalus,Others_wet,Fin,M,N,wet,U,20.4216,45.609,8.401,Nishiwaki (1950),
+N.No.219.F.M.,Balaenoptera_physalus,Others_wet,Fin,M,N,wet,U,20.4216,49.361787,7.636,Nishiwaki (1950),
+N.No.540.F.F.,Balaenoptera_physalus,Others_wet,Fin,F,N,wet,U,21.6408,53.08733087,8.669,Nishiwaki (1950),
+H.No.783.F.F.,Balaenoptera_physalus,Others_wet,Fin,F,N,wet,U,23.1648,57.4876,9.132,Nishiwaki (1950),
+H.No.795.F.F.,Balaenoptera_physalus,Others_wet,Fin,F,N,wet,U,21.336,60.3307,9.8,Nishiwaki (1950),
+H.No.927.F.M.,Balaenoptera_physalus,Others_wet,Fin,M,N,wet,U,19.812,48.366,8.027,Nishiwaki (1950),
+487,Balaenoptera_physalus,Others_wet,Fin,M,N,wet,U,20.4216,48.33,8.268,Ohno and Fujino (1952),
+417,Balaenoptera_physalus,Others_wet,Fin,M,N,wet,U,20.4216,45.807,7.617,Ohno and Fujino (1952),
+507,Balaenoptera_physalus,Others_wet,Fin,F,N,wet,U,20.4216,54.768,9.103,Ohno and Fujino (1952),
+1207,Balaenoptera_physalus,Others_wet,Fin,F,N,wet,U,17.3736,34.351,5.173,Ohno and Fujino (1952),
+919,Balaenoptera_physalus,Others_wet,Fin,F,N,wet,U,20.7264,49.582,7.894,Ohno and Fujino (1952),
+,Balaenoptera_physalus,Others_wet,Fin,M,N,wet,U,18.9,34,11.74,Zenkovich (1937) in Lockyer (1976),
+,Balaenoptera_physalus,Others_wet,Fin,M,N,wet,U,18.5,36.9,11,Zenkovich (1952) in Lockyer (1976),
+,Balaenoptera_physalus,Others_wet,Fin,M,N,wet,U,15.9,21.17,6.51,Bjarnason and Lingaas (1954) in  Lockyer (1976),
+,Balaenoptera_physalus,Others_wet,Fin,M,N,wet,U,18.9,41.8,12.48,Bjarnason and Lingaas (1954) in  Lockyer (1976),
+,Balaenoptera_physalus,Others_wet,Fin,F,Y,wet,U,20.8,53.8,9.65,Zenkovich (1937) in Lockyer (1976),
+,Balaenoptera_physalus,Others_wet,Fin,F,N,wet,U,19.9,48.6,8.49,Zenkovich (1937) in Lockyer (1976),
+,Balaenoptera_physalus,Others_wet,Fin,F,Y,wet,U,19.8,48.07,11.01,Zenkovich (1952) in Lockyer (1976),
+,Balaenoptera_physalus,Others_wet,Fin,F,N,wet,U,21.7,59.39,8.91,Crile (1941) in Lockyer (1976),
+8/4/1949,Balaenoptera_borealis,Others_wet,Sei,M,N,wet,U,11.5824,8.527,1.269,Omura (1950),
+8/16/1949,Balaenoptera_borealis,Others_wet,Sei,F,N,wet,U,11.5824,8.583,1.205,Omura (1950),
+8/27/1949,Balaenoptera_borealis,Others_wet,Sei,F,N,wet,U,11.5824,10.609,1.347,Omura (1950),
+9/27/1949,Balaenoptera_borealis,Others_wet,Sei,F,N,wet,U,11.5824,8.892,1.395,Omura (1950),
+8/7/1949,Balaenoptera_borealis,Others_wet,Sei,M,N,wet,U,11.8872,10.253,1.327,Omura (1950),
+8/24/1949,Balaenoptera_borealis,Others_wet,Sei,F,N,wet,U,11.8872,9.902,1.196,Omura (1950),
+8/10/1949,Balaenoptera_borealis,Others_wet,Sei,M,N,wet,U,12.4968,11.377,1.64,Omura (1950),
+10/14/1949,Balaenoptera_borealis,Others_wet,Sei,M,N,wet,U,12.4968,11.284,1.568,Omura (1950),
+9/20/1949,Balaenoptera_borealis,Others_wet,Sei,F,N,wet,U,12.8016,12.942,1.593,Omura (1950),
+10/9/1949,Balaenoptera_borealis,Others_wet,Sei,F,N,wet,U,13.1064,12.217,1.588,Omura (1950),
+8/16/1949,Balaenoptera_borealis,Others_wet,Sei,F,N,wet,U,13.4112,13.316,1.672,Omura (1950),
+10/5/1949,Balaenoptera_borealis,Others_wet,Sei,F,N,wet,U,13.4112,12.339,1.619,Omura (1950),
+9/14/1949,Balaenoptera_borealis,Others_wet,Sei,F,N,wet,U,13.716,13.796,1.709,Omura (1950),
+9/19/1949,Balaenoptera_borealis,Others_wet,Sei,F,N,wet,U,14.3256,15.762,1.915,Omura (1950),
+10/4/1949,Balaenoptera_borealis,Others_wet,Sei,F,N,wet,U,14.3256,16.358,1.895,Omura (1950),
+7/24/1949,Balaenoptera_borealis,Others_wet,Sei,F,N,wet,U,14.6304,15.557,1.741,Omura (1950),
+4/13/1948,Balaenoptera_edeni,Others_wet,Bryde,F,N,wet,U,11.2776,8.39,1.14,Omura (1950),
+4/16/1948,Balaenoptera_edeni,Others_wet,Bryde,F,N,wet,U,12.4968,14.12,1.92,Omura (1950),
+4/13/1948,Balaenoptera_edeni,Others_wet,Bryde,M,N,wet,U,12.8016,11.98,1.72,Omura (1950),
+4/15/1948,Balaenoptera_edeni,Others_wet,Bryde,M,N,wet,U,12.8016,11.77,1.72,Omura (1950),
+4/15/1948,Balaenoptera_edeni,Others_wet,Bryde,M,N,wet,U,12.8016,13.87,1.9,Omura (1950),
+4/14/1948,Balaenoptera_edeni,Others_wet,Bryde,F,N,wet,U,13.1064,13.91,1.85,Omura (1950),
+4/16/1948,Balaenoptera_edeni,Others_wet,Bryde,F,N,wet,U,13.1064,15.43,1.85,Omura (1950),
+8-Jun-50,Balaenoptera_edeni,Others_wet,Bryde,M,N,wet,U,12.192,11.949,1.836,Fujino (1955),
+5/29/1950,Balaenoptera_edeni,Others_wet,Bryde,M,N,wet,U,12.4968,11.752,1.867,Fujino (1955),
+8-Jun-50,Balaenoptera_edeni,Others_wet,Bryde,M,N,wet,U,12.4968,11.641,1.956,Fujino (1955),
+9-Jun-50,Balaenoptera_edeni,Others_wet,Bryde,M,N,wet,U,12.4968,11.927,1.935,Fujino (1955),
+9-Jun-50,Balaenoptera_edeni,Others_wet,Bryde,M,N,wet,U,12.4968,13.611,2.225,Fujino (1955),
+6/1/1950,Balaenoptera_edeni,Others_wet,Bryde,M,N,wet,U,12.8016,13.76,2.244,Fujino (1955),
+5/28/1950,Balaenoptera_edeni,Others_wet,Bryde,M,N,wet,U,13.4112,13.46,2.262,Fujino (1955),
+5/15/1950,Balaenoptera_edeni,Others_wet,Bryde,F,N,wet,U,12.192,13.784,2.516,Fujino (1955),
+5/27/1950,Balaenoptera_edeni,Others_wet,Bryde,F,N,wet,U,12.192,9.989,1.858,Fujino (1955),
+5/26/1950,Balaenoptera_edeni,Others_wet,Bryde,F,N,wet,U,12.4968,11.315,1.832,Fujino (1955),
+5/23/1950,Balaenoptera_edeni,Others_wet,Bryde,F,N,wet,U,12.8016,11.893,1.959,Fujino (1955),
+6/4/1950,Balaenoptera_edeni,Others_wet,Bryde,F,N,wet,U,12.8016,12.775,2.187,Fujino (1955),
+6/2/1950,Balaenoptera_edeni,Others_wet,Bryde,F,N,wet,U,12.8016,14.85,2.367,Fujino (1955),
+5/16/1950,Balaenoptera_edeni,Others_wet,Bryde,F,N,wet,U,12.8016,13.908,2.134,Fujino (1955),
+5/22/1950,Balaenoptera_edeni,Others_wet,Bryde,F,N,wet,U,12.8016,12.458,1.983,Fujino (1955),
+5/24/1950,Balaenoptera_edeni,Others_wet,Bryde,F,N,wet,U,13.1064,12.792,2.02,Fujino (1955),
+6/5/1950,Balaenoptera_edeni,Others_wet,Bryde,F,N,wet,U,13.4112,15.471,2.283,Fujino (1955),
+5/16/1950,Balaenoptera_edeni,Others_wet,Bryde,F,N,wet,U,13.4112,12.55,2.214,Fujino (1955),
+5/30/1950,Balaenoptera_edeni,Others_wet,Bryde,F,N,wet,U,13.716,16.151,2.693,Fujino (1955),
+5/31/4950,Balaenoptera_edeni,Others_wet,Bryde,F,N,wet,U,13.716,15.959,2.567,Fujino (1955),
+8/22/1949,Physeter_macrocephalus,Others_wet,SpermJ,M,N,wet,NP,10.0584,9.851,1.094,Omura (1950),
+8/26/1949,Physeter_macrocephalus,Others_wet,SpermJ,M,N,wet,NP,10.668,11.931,1.203,Omura (1950),
+8/22/1949,Physeter_macrocephalus,Others_wet,SpermJ,F,N,wet,NP,10.9728,11.962,1.196,Omura (1950),
+8/11/1949,Physeter_macrocephalus,Others_wet,SpermJ,M,N,wet,NP,11.5824,14.277,1.351,Omura (1950),
+9/19/1949,Physeter_macrocephalus,Others_wet,SpermJ,F,N,wet,NP,11.5824,13.838,1.432,Omura (1950),
+9/4/1949,Physeter_macrocephalus,Others_wet,SpermJ,M,N,wet,NP,11.8872,16.114,1.469,Omura (1950),
+9/26/1949,Physeter_macrocephalus,Others_wet,SpermJ,M,N,wet,NP,11.8872,16.814,1.476,Omura (1950),
+10/14/1949,Physeter_macrocephalus,Others_wet,SpermJ,M,N,wet,NP,13.4112,23.898,2.283,Omura (1950),
+4/21/1948,Physeter_macrocephalus,Others_wet,SpermJ,M,N,wet,NP,14.0208,28.92,2.75,Omura (1950),
+4/24/1948,Physeter_macrocephalus,Others_wet,SpermJ,M,N,wet,NP,14.3256,28.16,2.93,Omura (1950),
+9/13/1949,Physeter_macrocephalus,Others_wet,SpermJ,M,N,wet,NP,14.9352,32.232,3.275,Omura (1950),
+4/23/1949,Physeter_macrocephalus,Others_wet,SpermJ,M,N,wet,NP,15.8496,37.713,3.136,Omura (1950),
+4/21/1948,Physeter_macrocephalus,Others_wet,SpermJ,M,N,wet,NP,16.4592,41.73,3.55,Omura (1950),
+H No.  3,Physeter_macrocephalus,Others_wet,SpermA,M,N,wet,Ant,14.9352,36.586,4.633,Ohno and Fujino (1952),
+H No.  37,Physeter_macrocephalus,Others_wet,SpermA,M,N,wet,Ant,14.9352,34.467,4.469,Ohno and Fujino (1952),
+H No.  104,Physeter_macrocephalus,Others_wet,SpermA,M,N,wet,Ant,14.0208,29.954,3.653,Ohno and Fujino (1952),
+H No.  117,Physeter_macrocephalus,Others_wet,SpermA,M,N,wet,Ant,15.5448,37.007,5.291,Ohno and Fujino (1952),
+H No.  200,Physeter_macrocephalus,Others_wet,SpermA,M,N,wet,Ant,15.8496,39.925,5.588,Ohno and Fujino (1952),
+H No.  202,Physeter_macrocephalus,Others_wet,SpermA,M,N,wet,Ant,14.6304,32.383,4.524,Ohno and Fujino (1952),
+H No.  203,Physeter_macrocephalus,Others_wet,SpermA,M,N,wet,Ant,14.6304,34.394,4.723,Ohno and Fujino (1952),
+H No.  204,Physeter_macrocephalus,Others_wet,SpermA,M,N,wet,Ant,14.0208,31.674,4.486,Ohno and Fujino (1952),
+N No.  5,Physeter_macrocephalus,Others_wet,SpermA,M,N,wet,Ant,16.4592,42.792,6.602,Ohno and Fujino (1952),
+N No.  7,Physeter_macrocephalus,Others_wet,SpermA,M,N,wet,Ant,16.1544,46.846,6.776,Ohno and Fujino (1952),
+N No.  36,Physeter_macrocephalus,Others_wet,SpermA,M,N,wet,Ant,15.5448,43.014,5.953,Ohno and Fujino (1952),
+N No.  76,Physeter_macrocephalus,Others_wet,SpermA,M,N,wet,Ant,16.4592,51.695,7.93,Ohno and Fujino (1952),
+N No.  125,Physeter_macrocephalus,Others_wet,SpermA,M,N,wet,Ant,14.9352,38.942,5.973,Ohno and Fujino (1952),
+N No.  103,Physeter_macrocephalus,Others_wet,SpermA,M,N,wet,Ant,13.716,26.251,4.083,Ohno and Fujino (1952),
+N No.  159,Physeter_macrocephalus,Others_wet,SpermA,M,N,wet,Ant,15.5448,41.373,5.642,Ohno and Fujino (1952),
+N No.  166,Physeter_macrocephalus,Others_wet,SpermA,M,N,wet,Ant,14.6304,39.084,5.727,Ohno and Fujino (1952),
+596,Megaptera_novaeangliae,Others_wet,Humpback,F,N,wet,U,12.4968,24.817,3.774,Ohno and Fujino (1952),
+68B,Eubalaena_japonica,Others_wet,Right,F,N,wet,U,12.6,28.917,3.517,Omura et al. (1969),
+62A,Eubalaena_japonica,Others_wet,Right,F,N,wet,U,14.1,47.555,6.928,Omura et al. (1969),
+62B,Eubalaena_japonica,Others_wet,Right,M,N,wet,U,14.7,52.894,9.229,Omura et al. (1969),
+61C,Eubalaena_japonica,Others_wet,Right,M,N,wet,U,15.1,55.254,7.465,Omura et al. (1969),
+68A,Eubalaena_japonica,Others_wet,Right,M,N,wet,U,15.2,48.562,4.769,Omura et al. (1969),
+63B,Eubalaena_japonica,Others_wet,Right,F,Y,wet,U,15.4,62.341,8.499,Omura et al. (1969),
+62C,Eubalaena_japonica,Others_wet,Right,M,N,wet,U,16.1,67.769,9.383,Omura et al. (1969),
+63A,Eubalaena_japonica,Others_wet,Right,F,Y,wet,U,16.1,74.299,9.598,Omura et al. (1969),
+63C,Eubalaena_japonica,Others_wet,Right,M,N,wet,U,16.4,78.499,10.403,Omura et al. (1969),
+61B,Eubalaena_japonica,Others_wet,Right,M,N,wet,U,17,65.76,8.897,Omura et al. (1969),
+61A,Eubalaena_japonica,Others_wet,Right,M,N,wet,U,17.1,67.239,9.992,Omura et al. (1969),
+A2937,Eubalaena_australis,Others_dry,Eubalaena_australis,F,U,dry,U,14,42.435,1.849,Robineau and Buffrenil (1976),
+A2936,Balaena_mysticetus,Others_dry,Balaena_mysticetus,M,U,dry,U,14.76,49.885,2.023,Robineau and Buffrenil (1976),
+A5804,Megaptera_novaeangliae,Others_dry,Megaptera_novaeangliae,F,U,dry,U,13.37,34.582,1.209,Robineau and Buffrenil (1976),
+A5805,Balaenoptera_musculus,Blue_dry,Balaenoptera_musculus,M,U,dry,U,23.29,80.454,2.958,Robineau and Buffrenil (1976),
+A5806,Balaenoptera_musculus,Blue_dry,Balaenoptera_musculus,F,U,dry,U,24.15,90.516,3.393,Robineau and Buffrenil (1976),
+A5681,Physeter_macrocephalus,Others_dry,Physeter_macrocephalus,M,U,dry,U,14.52,32.941,1.67,Robineau and Buffrenil (1976),
+Pontoporia_blainvillei-Bu1990,Pontoporia_blainvillei,Others_dry,P_bl,U,U,dry,U,,0.0245,0.00084,Bianucci et al. (2023),
+Phocoena_phocoena-Bu1990,Phocoena_phocoena,Others_dry,P_pho,U,U,dry,U,,0.0443,0.0016,Bianucci et al. (2023),
+Steno_bredanensis-Bu1990,Steno_bredanensis,Others_dry,S_bre,U,U,dry,U,,0.081,0.00359,Bianucci et al. (2023),
+Tursiops_truncatus-Bu1990,Tursiops_truncatus,Others_dry,T_tru,U,U,dry,U,,0.238,0.0088,Bianucci et al. (2023),
+Grampus_griseus-Bu1990,Grampus_griseus,Others_dry,G_gri,U,U,dry,U,,0.28,0.01141,Bianucci et al. (2023),
+Mesoplodon_europaeus-Bu1990,Mesoplodon_europaeus,Others_dry,M_eu,U,U,dry,U,,0.857,0.01906,Bianucci et al. (2023),
+Mesoplodon_mirus-Bu1990,Mesoplodon_mirus,Others_dry,M_mi,U,U,dry,U,,0.9295,0.02373,Bianucci et al. (2023),
+Mesoplodon_carlhubbsi-Bu1990,Mesoplodon_carlhubbsi,Others_dry,M_ca,U,U,dry,U,,1.432,0.03236,Bianucci et al. (2023),
+1041,Delphinus_delphis,Others_dry,Common,M,U,dry,U,1.26,0.019,0.00076,Buffrenil (1985),0.04
+1087,Delphinus_delphis,Others_dry,Common,M,U,dry,U,0.99,0.0085,0.0004638,Buffrenil (1985),0.054564706
+1220,Delphinus_delphis,Others_dry,Common,M,U,dry,U,1.17,,0.00078,Buffrenil (1985),#DIV/0!
+1282,Delphinus_delphis,Others_dry,Common,F,U,dry,U,1.45,,0.0011945,Buffrenil (1985),#DIV/0!
+975,Delphinus_delphis,Others_dry,Common,M,U,dry,U,1.48,,0.0014016,Buffrenil (1985),#DIV/0!
+1073,Delphinus_delphis,Others_dry,Common,M,U,dry,U,1.71,0.058,0.001997,Buffrenil (1985),0.034431034
+1081,Delphinus_delphis,Others_dry,Common,M,U,dry,U,1.74,0.055,0.0019619,Buffrenil (1985),0.035670909
+1226,Delphinus_delphis,Others_dry,Common,F,U,dry,U,1.63,0.047,0.0018567,Buffrenil (1985),0.039504255
+987,Delphinus_delphis,Others_dry,Common,M,U,dry,U,1.65,,0.0019273,Buffrenil (1985),#DIV/0!
+998,Delphinus_delphis,Others_dry,Common,M,U,dry,U,1.77,,0.0021653,Buffrenil (1985),#DIV/0!
+1102,Delphinus_delphis,Others_dry,Common,F,U,dry,U,1.77,0.066,0.0022949,Buffrenil (1985),0.034771212
+1194,Delphinus_delphis,Others_dry,Common,M,U,dry,U,1.8,0.065,0.00265434,Buffrenil (1985),0.040836
+1242,Delphinus_delphis,Others_dry,Common,M,U,dry,U,1.87,0.063,0.0021594,Buffrenil (1985),0.03427619
+1244,Delphinus_delphis,Others_dry,Common,M,U,dry,U,1.8,0.06,0.0019431,Buffrenil (1985),0.032385
+1280,Delphinus_delphis,Others_dry,Common,M,U,dry,U,1.84,0.07,0.0021208,Buffrenil (1985),0.030297143
+1286,Delphinus_delphis,Others_dry,Common,M,U,dry,U,1.79,,0.0023347,Buffrenil (1985),#DIV/0!
+1570,Delphinus_delphis,Others_dry,Common,M,U,dry,U,1.43,0.03,0.0013038,Buffrenil (1985),0.04346
+1065,Delphinus_delphis,Others_dry,Common,F,U,dry,U,1.89,,0.0024306,Buffrenil (1985),#DIV/0!
+1213,Delphinus_delphis,Others_dry,Common,M,U,dry,U,1.73,0.072,0.0025268,Buffrenil (1985),0.035094444
+1113,Delphinus_delphis,Others_dry,Common,M,U,dry,U,1.94,0.071,0.0034219,Buffrenil (1985),0.048195775
+1173,Delphinus_delphis,Others_dry,Common,M,U,dry,U,1.75,,0.0022144,Buffrenil (1985),#DIV/0!
+1611,Delphinus_delphis,Others_dry,Common,F,U,dry,U,1.98,0.09,0.0031971,Buffrenil (1985),0.035523333
+1521,Delphinus_delphis,Others_dry,Common,M,U,dry,U,2.2,0.072,0.0034152,Buffrenil (1985),0.047433333
+1650,Delphinus_delphis,Others_dry,Common,F,U,dry,U,1.7,0.048,0.0019163,Buffrenil (1985),0.039922917
+1064,Delphinus_delphis,Others_dry,Common,M,U,dry,U,1.8,,0.002281,Buffrenil (1985),#DIV/0!
+1114,Delphinus_delphis,Others_dry,Common,F,U,dry,U,1.87,0.062,0.0025259,Buffrenil (1985),0.040740323
+1192,Delphinus_delphis,Others_dry,Common,M,U,dry,U,1.87,,0.0024941,Buffrenil (1985),#DIV/0!
+1552,Delphinus_delphis,Others_dry,Common,M,U,dry,U,1.77,0.053,0.0018781,Buffrenil (1985),0.035435849
+1056,Delphinus_delphis,Others_dry,Common,M,U,dry,U,1.95,0.056,0.0025714,Buffrenil (1985),0.045917857
+1649,Delphinus_delphis,Others_dry,Common,F,U,dry,U,1.96,0.096,0.0030024,Buffrenil (1985),0.031275
+1669,Delphinus_delphis,Others_dry,Common,M,U,dry,U,1.9,0.0805,0.0027607,Buffrenil (1985),0.03429441
+953,Delphinus_delphis,Others_dry,Common,F,U,dry,U,1.99,,0.0029249,Buffrenil (1985),#DIV/0!
+1083,Delphinus_delphis,Others_dry,Common,F,U,dry,U,1.87,0.059,0.0029174,Buffrenil (1985),0.049447458
+1276,Delphinus_delphis,Others_dry,Common,F,U,dry,U,2.01,0.0825,0.0030294,Buffrenil (1985),0.03672
+1520,Delphinus_delphis,Others_dry,Common,M,U,dry,U,2.1,0.078,0.0033116,Buffrenil (1985),0.04245641
+1078,Delphinus_delphis,Others_dry,Common,F,U,dry,U,2.04,0.078,0.0032044,Buffrenil (1985),0.041082051
+1149,Delphinus_delphis,Others_dry,Common,M,U,dry,U,2.15,,0.0040757,Buffrenil (1985),#DIV/0!
+1167,Delphinus_delphis,Others_dry,Common,F,U,dry,U,2.08,0.111,0.003415,Buffrenil (1985),0.030765766
+1191,Delphinus_delphis,Others_dry,Common,M,U,dry,U,2.2,,0.0047484,Buffrenil (1985),#DIV/0!
+1235,Delphinus_delphis,Others_dry,Common,F,U,dry,U,1.71,0.053,0.0021408,Buffrenil (1985),0.040392453
+1186,Delphinus_delphis,Others_dry,Common,F,U,dry,U,2,0.081,0.0033634,Buffrenil (1985),0.041523457
+1505,Delphinus_delphis,Others_dry,Common,F,U,dry,U,2.02,0.09,0.0037101,Buffrenil (1985),0.041223333
+963,Delphinus_delphis,Others_dry,Common,M,U,dry,U,2.28,,0.0039902,Buffrenil (1985),#DIV/0!
+1079,Delphinus_delphis,Others_dry,Common,F,U,dry,U,2.11,0.1065,0.0034253,Buffrenil (1985),0.032162441
+1196,Delphinus_delphis,Others_dry,Common,F,U,dry,U,1.95,0.067,0.0025235,Buffrenil (1985),0.037664179
+1503,Delphinus_delphis,Others_dry,Common,F,U,dry,U,2.15,0.086,0.0030776,Buffrenil (1985),0.035786047
+1039,Delphinus_delphis,Others_dry,Common,F,U,dry,U,2.04,0.075,0.0033232,Buffrenil (1985),0.044309333
+1278,Delphinus_delphis,Others_dry,Common,M,U,dry,U,2.23,0.13,0.0045537,Buffrenil (1985),0.035028462
+957,Delphinus_delphis,Others_dry,Common,F,U,dry,U,2.12,,0.0034981,Buffrenil (1985),#DIV/0!
+1068,Delphinus_delphis,Others_dry,Common,F,U,dry,U,1.99,,0.0031129,Buffrenil (1985),#DIV/0!
+1221,Delphinus_delphis,Others_dry,Common,M,U,dry,U,2.1,,0.0038553,Buffrenil (1985),#DIV/0!
+1260,Delphinus_delphis,Others_dry,Common,F,U,dry,U,2.02,0.086,0.0030365,Buffrenil (1985),0.03530814
+1162,Delphinus_delphis,Others_dry,Common,F,U,dry,U,2.08,,0.0036949,Buffrenil (1985),#DIV/0!
+1012,Delphinus_delphis,Others_dry,Common,F,U,dry,U,1.98,,0.0029705,Buffrenil (1985),#DIV/0!
+1169,Delphinus_delphis,Others_dry,Common,F,U,dry,U,1.95,0.11,0.0029879,Buffrenil (1985),0.027162727
+1281,Delphinus_delphis,Others_dry,Common,M,U,dry,U,2.22,,0.0047495,Buffrenil (1985),#DIV/0!
+1265,Delphinus_delphis,Others_dry,Common,F,U,dry,U,2.08,0.083,0.0037599,Buffrenil (1985),0.0453
+1126,Delphinus_delphis,Others_dry,Common,F,U,dry,U,1.98,0.098,0.0029987,Buffrenil (1985),0.03059898
+1237,Delphinus_delphis,Others_dry,Common,F,U,dry,U,1.99,0.093,0.0032026,Buffrenil (1985),0.034436559
+1541,Delphinus_delphis,Others_dry,Common,F,U,dry,U,2.06,0.086,0.0031678,Buffrenil (1985),0.036834884
+1290,Delphinus_delphis,Others_dry,Common,F,U,dry,U,2.1,,0.0035431,Buffrenil (1985),#DIV/0!
