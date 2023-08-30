@@ -4,7 +4,11 @@ R code and relevant data for the <i>Perucetus colossus</i> body mass paper
 ---
 
 ## Instruction
-Download the folder and use it as your working directory in R.
+Download the folder and use it as your working directory in R. The command to use for workign directory setting is:
+```R
+setwd("Your_Working_Directory_Path")
+```
+It is a good idea to add this line at the beginning of each script file.
 
 ## Befor you can run Body_mass_from_bone_mass.R
 We could not include three of the data files in this distribution because of 
